@@ -1,0 +1,39 @@
+================Reporte de Lista de Reproduccion de Albumes================
+1.Album: Love Songs - Arista: Michael Bolton
+  -Soul_Provider (4.28)
+  -Stand_Up_for_Love (4.45)
+  -Missing_You_Now (5.01)
+  -Now_That_I_Found_You (4.32)
+  -A_Love_So_Beautiful (4.07)
+  -The_Best_of_Love (4.18)
+  -When_a_Man_Loves_a_Woman (3.52)
+  -New_Love (4.32)
+
+2.Album: Millennium - Arista: Backstreet Boys
+  -I_Want_It_That_Way (3.33)
+  -Langer_That_Life (4.06)
+  -Show_Me_the_Meaning_of_Being_Lonely (3.4)
+  -Don't_Want_You_Back (3.26)
+  -I_Need_You_Tonight (4.23)
+  -The_Perfet_Fan (4.13)
+  -Spanish_Eyes (3.55)
+
+3.Album: You Want It, You Got It - Arista: Bryan Adams
+  -Last_Chance (3.19)
+  -Don't_Look_Now (3.09)
+  -One_Good_Reason (4.23)
+  -Lonely_Nights (3.48)
+  -Jealousy (3.52)
+  -Fist_Ya_Good (4.38)
+  -You_Want_It,_You_Got_It (3.49)
+
+4.Album: Speak Now - Arista: Taylor Swift
+  -Last_kiss (6.09)
+  -Hunted (4.06)
+  -Mine (3.52)
+  -Mean (1.3)
+  -Innocent (0.59)
+  -Sparks_Fly (4.23)
+  -Back_To_December (0.55)
+  -Speak_Now (4.03)
+

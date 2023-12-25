@@ -1,0 +1,167 @@
+                                      Reporte de playlist de álbumes
+========================================================================================================
+                                MB's Playlist -> 108 canciones, 6h 28 min
+--------------------------------------------------------------------------------------------------------
+Dedicatoria: Cada línea de este proyecto está dedicado a Maria Belen, la mujer que me enseñó que todo es
+más bonito cuando lo hacemos juntos. Asimismo, quiero conmemorar nuestro primer año juntos y estaré a la
+espera que lleguen muchos años más para seguir demostrando lo mucho que la amo.
+--------------------------------------------------------------------------------------------------------
+Descripcion: Esta playlist contiene, en principio, 22 álbumes haciendo referencia a mi fecha con
+Maria Belen. Se escogieron las canciones en base a mis sentimientos hacia ella, por lo que estos
+álbumes no tienen todas sus canciones. Se pueden modificar los álbumes ya creados, agregar otros
+más incluyendo sus canciones y otras funciones que están detallados en el main.
+========================================================================================================
+   Álbum                                             Artista                               Duración
+========================================================================================================
+1) Up All Night
+   1. Everything About You                           One Direction                         3:37
+   2. Stand Up                                       One Direction                         2:55
+   3. Another World                                  One Direction                         3:24
+--------------------------------------------------------------------------------------------------------
+2) Take Me Home
+   1. Kiss you                                       One Direction                         3:02
+   2. Little Things                                  One Direction                         3:39
+   3. Last First Kiss                                One Direction                         3:23
+   4. They Don't Know About Us                       One Direction                         3:20
+   5. Truly Madly Deeply                             One Direction                         3:00
+--------------------------------------------------------------------------------------------------------
+3) Midnight Memories
+   1. You & I                                        One Direction                         3:57
+   2. Strong                                         One Direction                         3:04
+   3. Through the Dark                               One Direction                         3:41
+   4. Something Great                                One Direction                         3:56
+   5. Better Than Words                              One Direction                         3:28
+--------------------------------------------------------------------------------------------------------
+4) FOUR
+   1. Ready to Run                                   One Direction                         3:16
+   2. Girl Almighty                                  One Direction                         3:21
+   3. No Control                                     One Direction                         3:19
+   4. Fireproof                                      One Direction                         2:54
+   5. Stockholm Syndrome                             One Direction                         3:34
+   6. Illusion                                       One Direction                         3:14
+--------------------------------------------------------------------------------------------------------
+5) Made In The A.M.
+   1. Drag Me Down                                   One Direction                         3:12
+   2. End of the Day                                 One Direction                         3:14
+   3. If I Could Fly                                 One Direction                         3:50
+   4. I Want to Write You a Song                     One Direction                         2:59
+--------------------------------------------------------------------------------------------------------
+6) Hasta Ahora
+   1. Entra en Mi Vida                               Sin Bandera                           4:09
+   2. Que Me Alcance la Vida                         Sin Bandera                           3:48
+   3. Kilometros                                     Sin Bandera                           3:41
+   4. Amor Real                                      Sin Bandera                           4:05
+   5. Y Llegaste Tu                                  Sin Bandera                           3:52
+--------------------------------------------------------------------------------------------------------
+7) Todo Cambio
+   1. Abrazame                                       Camila                                3:50
+   2. Todo Cambio                                    Camila                                3:13
+   3. Coleccionista de Canciones                     Camila                                5:06
+   4. Solo para Ti                                   Camila                                3:02
+--------------------------------------------------------------------------------------------------------
+8) Mi Sangre
+   1. Para Tu Amor                                   Juanes                                4:09
+   2. Nada Valgo Sin Tu Amor                         Juanes                                3:16
+   3. Volverte A Ver                                 Juanes                                3:37
+   4. Tu Guardian                                    Juanes                                4:25
+   5. A Dios Le Pido                                 Juanes                                3:25
+   6. Es Por Ti                                      Juanes                                4:10
+--------------------------------------------------------------------------------------------------------
+9) Lover
+   1. Lover                                          Taylor Swift                          3:41
+   2. Paper Rings                                    Taylor Swift                          3:42
+   3. Daylight                                       Taylor Swift                          4:53
+--------------------------------------------------------------------------------------------------------
+10) Al Fin Te Encontre
+   1. Al Fin Te Encontre                             Rio Roma                              3:34
+   2. Me Cambiaste la Vida                           Rio Roma                              3:54
+   3. Por Eso Te Amo                                 Rio Roma                              3:29
+   4. Camina Conmigo                                 Rio Roma                              3:41
+   5. Tan Solo un Minuto                             Rio Roma                              3:25
+--------------------------------------------------------------------------------------------------------
+11) Otra Vida
+   1. Te Adivine                                     Rio Roma                              3:29
+   2. Vida Nueva                                     Rio Roma                              3:45
+   3. Hoy Es un Buen Dia                             Rio Roma                              3:39
+   4. Mi Persona Favorita                            Rio Roma                              3:10
+   5. Tu Me Caiste del Cielo                         Rio Roma                              3:34
+--------------------------------------------------------------------------------------------------------
+12) Doo-Wops & Hooligans
+   1. Just the Way You Are                           Bruno Mars                            3:40
+   2. Our First Time                                 Bruno Mars                            4:03
+   3. Marry You                                      Bruno Mars                            3:50
+   4. Count on Me                                    Bruno Mars                            3:17
+--------------------------------------------------------------------------------------------------------
+13) Unorthodox Jukebox
+   1. Locked out of Heaven                           Bruno Mars                            3:53
+   2. Treasure                                       Bruno Mars                            2:58
+   3. Moonshine                                      Bruno Mars                            3:48
+   4. Show Me                                        Bruno Mars                            3:27
+--------------------------------------------------------------------------------------------------------
+14) 24K Magic
+   1. That's What I Like                             Bruno Mars                            3:26
+   2. Versace on the Floor                           Bruno Mars                            4:21
+   3. Straight up & Down                             Bruno Mars                            3:18
+   4. Finesse                                        Bruno Mars                            3:11
+--------------------------------------------------------------------------------------------------------
+15) High School Musical
+   1. What I've Been Looking For                     High School Musical Cast              2:04
+   2. Breaking Free                                  High School Musical Cast              3:27
+   3. You Are the Music in Me                        High School Musical Cast              3:29
+   4. Everyday                                       High School Musical Cast              4:38
+   5. Righ Here, Right Now                           High School Musical Cast              3:58
+   6. Can I Have This Dance                          High School Musical Cast              4:04
+   7. Justa Wanna Be With You                        High School Musical Cast              2:38
+--------------------------------------------------------------------------------------------------------
+16) Harry's House
+   1. Late Night Talking                             Harry Styles                          2:57
+   2. Grapejuice                                     Harry Styles                          3:11
+   3. Daylight                                       Harry Styles                          2:44
+   4. Cinema                                         Harry Styles                          4:03
+   5. Daydreaming                                    Harry Styles                          3:07
+   6. Satellite                                      Harry Styles                          3:38
+--------------------------------------------------------------------------------------------------------
+17) Michael Jackson Mix
+   1. Love Never Felt So Good                        Michael Jackson                       3:55
+   2. Rock With You                                  Michael Jackson                       3:40
+   3. The Way You Make Me Feel                       Michael Jackson                       4:57
+--------------------------------------------------------------------------------------------------------
+18) Reik Mix
+   1. Cuando Estas Conmigo                           Reik                                  3:10
+   2. Sabes                                          Reik                                  3:41
+   3. Creo en Ti                                     Reik                                  2:43
+   4. Tu Mirada                                      Reik                                  3:20
+   5. Un Amor de Verdad                              Reik                                  3:32
+   6. Perfecta                                       Reik                                  2:55
+   7. Eres Tu                                        Reik                                  3:38
+   8. Pero Te Conoci                                 Reik                                  3:07
+--------------------------------------------------------------------------------------------------------
+19) Coldplay Mix
+   1. Sparks                                         Coldplay                              3:47
+   2. Yellow                                         Coldplay                              4:27
+   3. Hymn for the Weekend                           Coldplay                              4:18
+   4. Adventure of a Lifetime                        Coldplay                              4:24
+   5. A Sky Full of Stars                            Coldplay                              4:28
+   6. My Universe                                    Coldplay                              3:46
+--------------------------------------------------------------------------------------------------------
+20) Yatra Mix
+   1. MANTRA                                         Sebastian Yatra                       3:28
+   2. No Hay Nadie Mas                               Sebastian Yatra                       3:19
+   3. Tacones Rojos                                  Sebastian Yatra                       3:09
+   4. Quererte Bonito                                Sebastian Yatra                       4:31
+--------------------------------------------------------------------------------------------------------
+21) Shawn Mendes Mix
+   1. Never Be Alone                                 Shawn Mendes                          3:35
+   2. Fallin' All In You                             Shawn Mendes                          3:55
+   3. Teach Me How To Love                           Shawn Mendes                          3:22
+   4. Dream                                          Shawn Mendes                          3:34
+   5. Always Been You                                Shawn Mendes                          2:47
+   6. Look Up At The Stars                           Shawn Mendes                          3:31
+   7. Can't Take My Eyes Off You - BBC Live Version  Shawn Mendes                          3:24
+--------------------------------------------------------------------------------------------------------
+22) Cigarettes After Sex and Artic Monkeys Mix
+   1. Sweet                                          Cigarettes After Sex                  4:52
+   2. Heavenly                                       Cigarettes After Sex                  4:49
+   3. I Wanna Be Yours                               Artic Monkeys                         3:04
+   4. Baby I'm Yours                                 Artic Monkeys                         2:33
+--------------------------------------------------------------------------------------------------------
